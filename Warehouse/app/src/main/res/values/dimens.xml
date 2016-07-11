@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--字体size-->
+    <dimen name="font_tiny">10sp</dimen>
+    <dimen name="font_little">12sp</dimen>
+    <dimen name="font_small">14sp</dimen>
+    <dimen name="font_normal">16sp</dimen>
+    <dimen name="font_big">18sp</dimen>
+    <dimen name="font_xbig">20sp</dimen>
+
+
+    <!--控件dimen-->
+
+    <dimen name="height_tiny">24dip</dimen>
+    <dimen name="height_little">32dip</dimen>
+    <dimen name="height_small">36dip</dimen>
+    <dimen name="height_normal">48dip</dimen>
+    <dimen name="height_big">64dip</dimen>
+    <dimen name="height_xbig">72dip</dimen>
+
+    <!--边距padding-->
+
+    <dimen name="padding_top">5dip</dimen>
+    <dimen name="padding_bottom">5dip</dimen>
+    <dimen name="padding_left">10dip</dimen>
+    <dimen name="padding_right">10dip</dimen>
+</resources>
